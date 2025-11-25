@@ -1,0 +1,8 @@
+{
+  "name": "vercel-app",
+  "version": "1.0.0",
+  "description": "My Vercel deployment",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}

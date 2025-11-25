@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/web-client/ch62/color.js",
+      "dest": "/api/color.js"
+    }
+  ]
+}
