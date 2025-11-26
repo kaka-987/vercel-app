@@ -3,7 +3,9 @@
   "routes": [
     {
       "src": "/web-client/ch62/color.js",
-      "dest": "/api/color.js",
+      "dest": "/api/color.js"
+    }，
+    {
       "src": "/",
       "dest": "api/1.html"
     }
